@@ -40,7 +40,13 @@ Input --> (["Milk!Pepper!Salt!Water!Banana",
 
 "Urgent Salt",
 "Unnecessary Grapes",
+
 "Correct Pepper Onion",
+
 "Rearrange Grapes", 
+
 "Correct Tomatoes Potatoes", 
-"Go Shopping!"])    Output--> Milk, Onion, Salt, Water, Banana
+
+"Go Shopping!"])   
+
+Output--> Milk, Onion, Salt, Water, Banana
